@@ -12,3 +12,5 @@ function twentytwentyfive_child_enqueue_styles() {
     );
 }
 add_action('wp_enqueue_scripts', 'twentytwentyfive_child_enqueue_styles');
+
+//this is function file change by parth
